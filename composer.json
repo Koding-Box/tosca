@@ -1,0 +1,23 @@
+{
+    "name": "kodingbox/tosca",
+    "description": "tosca",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "src/Helpers/autoload.php"
+        ],
+        "psr-4": {
+            "Tosca\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Irfan Arsyad",
+            "email": "irfan@kodiingbox.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
